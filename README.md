@@ -1,16 +1,19 @@
-## Hi there 👋
+Hello, I'm Marranne, a detail-oriented data analyst with a strong foundation in laboratory analytics. 
 
-<!--
-**mconge/mconge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I can:
+- Query data using SQL
+- Utilize Python for various advanced data processing and modeling
+- Develop dashboards on Tableau
 
-Here are some ideas to get you started:
+📚 Welcome to my portfolio, where I showcase my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools
+
+Language: SQL, Python
+
+Database: PostgreSQL, MySQL
+
+Visualization: Tableau
+
+👋🏻 Connect with me at [LinkedIn](https://www.linkedin.com/in/marranne-conge/)
+
