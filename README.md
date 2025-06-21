@@ -9,7 +9,7 @@ I can:
 
 🛠️ Tools
 
-Language: SQL, Python
+Language: SQL, Python, VBA
 
 Database: PostgreSQL, MySQL
 
